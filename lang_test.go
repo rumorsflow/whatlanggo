@@ -185,7 +185,7 @@ func TestLangToString(t *testing.T) {
 		Ydd: "ydd",
 		Yor: "yor",
 		Zul: "zul",
-		-1:  "",
+		-1:  "xxx",
 	}
 
 	for lang, codeStr := range tests {
@@ -282,7 +282,7 @@ func TestLangToStringShort(t *testing.T) {
 		Ydd: "",
 		Yor: "yo",
 		Zul: "zu",
-		-1:  "",
+		-1:  "xx",
 	}
 
 	for lang, codeStr := range tests {
