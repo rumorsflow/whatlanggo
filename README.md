@@ -13,7 +13,7 @@ Natural language detection for Go.
 ## Getting started
 Installation:
 ```sh
-    go get -u github.com/rumorsflow/whatlanggo
+go get -u github.com/rumorsflow/whatlanggo
 ```
 
 Simple usage example:
