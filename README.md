@@ -13,7 +13,7 @@ Natural language detection for Go.
 ## Getting started
 Installation:
 ```sh
-    go get -u github.com/abadojack/whatlanggo
+    go get -u github.com/rumorsflow/whatlanggo
 ```
 
 Simple usage example:
@@ -23,7 +23,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/abadojack/whatlanggo"
+	"github.com/rumorsflow/whatlanggo"
 )
 
 func main() {
@@ -39,7 +39,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/abadojack/whatlanggo"
+	"github.com/rumorsflow/whatlanggo"
 )
 
 func main() {

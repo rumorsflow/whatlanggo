@@ -1,3 +1,3 @@
-module github.com/retarus/whatlanggo
+module github.com/rumorsflow/whatlanggo
 
 go 1.12
